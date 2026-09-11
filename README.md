@@ -2,7 +2,7 @@
 
 نظام خبير ومعالجة نصوص ذكي لتمييز النصوص المنشأة بواسطة الذكاء الاصطناعي (AI-Generated) عن النصوص المكتوبة بواسطة العنصر البشري (Human-Written).
 
-🔗 **رابط التطبيق المباشر (Live Demo):** [AI Detector App](https://htwvjezg9s7shcur6lrd4w.streamlit.app)
+🔗 **رابط التطبيق المباشر (Live Demo):** [AI Detector App](https://htvvjezg9s7shcur6lrd4w.streamlit.app/)
 
 ---
 
