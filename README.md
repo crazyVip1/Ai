@@ -48,6 +48,6 @@ cd Ai
 ☁️ النشر والتطوير (Deployment)
 تم نشر هذا التطبيق أونلاين باستخدام Streamlit Community Cloud ومربوط مباشرة بفرع main على GitHub لضمان التحديث التلقائي للتطبيق مع كل commit جديد.
 👤 إعداد وتطوير
-المهندس: حسن الحاطف (Hassan Al-Hatef)
+المهندس: حسن الهاتف (Hassan Al-Hatef)
 التخصص: هندسة الميكاترونكس (Mechatronics Engineering)
 
